@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/ambient-techno-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "9f3a1cf41be14658907491a2f3ee950e3cc95533e04f9398d0508ba831f5981d",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "5474419a1539b3c7e169b7326018f85dbd8ffdff9896647567a162ab8cff5c34",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

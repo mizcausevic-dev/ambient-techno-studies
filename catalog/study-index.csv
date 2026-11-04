@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+at01,Orbit Room,pack-local equal-tempered pitch collection,A,118,4/4,480,32,61440,midi/at01-orbit-room/at01-orbit-room-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+at02,Air Line,pack-local equal-tempered pitch collection,C,118,4/4,480,32,61440,midi/at02-air-line/at02-air-line-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+at03,Long Surface,pack-local equal-tempered pitch collection,D#,118,4/4,480,32,61440,midi/at03-long-surface/at03-long-surface-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+at04,Distant Pulse,pack-local equal-tempered pitch collection,A#,118,4/4,480,32,61440,midi/at04-distant-pulse/at04-distant-pulse-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
